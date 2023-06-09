@@ -1,0 +1,14 @@
+﻿0.2.2 -> 0.2.3
+- Added more powerups (Slow, Gravity)
+- Added themes
+- Fixed infinite jumping
+- Added more sounds such as jumping or collecting powerups
+- Added E key to instructions
+0.2.3.1:
+- Fixed bounciness of player
+- Added icon to game
+0.2.3.1-HF:
+- Fixed crashing with explode button on main menu (hidden to the right)
+- Fixed null pointer on crash if music player didn't exist
+- Fixed shuffle setting sharing enable setting event
+- Fixed enabling music and starting new game from creating memory leaks

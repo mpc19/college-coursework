@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9768DA5C-2F30-4631-8409-14330E1AC658}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dropbox</RootNamespace>
+    <AssemblyName>Dropbox</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ICO.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Environment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Environment.designer.cs">
+      <DependentUpon>Environment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MusicPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MusicPlayer.Designer.cs">
+      <DependentUpon>MusicPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Util\AchievementManager.cs" />
+    <Compile Include="Util\AnimationManager.cs" />
+    <Compile Include="Util\DrawUtil.cs" />
+    <Compile Include="Util\Gravity.cs" />
+    <Compile Include="Util\Item.cs" />
+    <EmbeddedResource Include="Environment.resx">
+      <DependentUpon>Environment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MusicPlayer.resx">
+      <DependentUpon>MusicPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dirt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explosion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grass.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grsdrt1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonk.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bonk Sound Effect #2 %28128 kbps%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lose-7.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lose-1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blip-1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok-1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonk.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\music.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonk1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonk2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonk3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonk4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bonk5.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Changelog.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ICO.ico" />
+    <None Include="Resources\eery-1.wav" />
+    <None Include="Resources\water.wav" />
+    <None Include="Resources\universe2.jfif" />
+    <None Include="Resources\universe1.jfif" />
+    <None Include="Resources\universe.jfif" />
+    <None Include="Resources\sea.jfif" />
+    <None Include="Resources\jump-10.wav" />
+    <None Include="Resources\blast-off-2.wav" />
+    <None Include="Resources\collect-6.wav" />
+    <None Include="Resources\bg.png" />
+    <None Include="Resources\coin-1.wav" />
+    <None Include="Resources\2.wav" />
+    <None Include="Resources\1.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

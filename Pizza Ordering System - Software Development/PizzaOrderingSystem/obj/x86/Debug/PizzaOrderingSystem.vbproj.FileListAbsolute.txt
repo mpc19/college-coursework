@@ -1,0 +1,30 @@
+\\file-student\studenthomes\48799\visual studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.exe
+\\file-student\studenthomes\48799\visual studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.pdb
+\\file-student\studenthomes\48799\visual studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.xml
+\\file-student\studenthomes\48799\visual studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.vbproj.GenerateResource.Cache
+\\file-student\studenthomes\48799\visual studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.exe
+\\file-student\studenthomes\48799\visual studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.xml
+\\file-student\studenthomes\48799\visual studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.pdb
+\\file-student\studenthomes\48799\Visual Studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.OrderScreen.resources
+\\file-student\studenthomes\48799\Visual Studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.Resources.resources
+\\file-student\studenthomes\48799\Visual Studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.exe.config
+\\file-student\studenthomes\48799\Visual Studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.HelpScreen.resources
+\\file-student\studenthomes\48799\Visual Studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.LoginScreen.resources
+\\file-student\studenthomes\48799\Visual Studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.ReceiptTemplate.resources
+\\file-student\studenthomes\48799\Visual Studio 2010\Projects\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.Prices.resources
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.vbprojAssemblyReference.cache
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.HelpScreen.resources
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.LoginScreen.resources
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.OrderScreen.resources
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.Resources.resources
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.Prices.resources
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.ReceiptTemplate.resources
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.vbproj.GenerateResource.cache
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.exe
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.xml
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\obj\x86\Debug\PizzaOrderingSystem.pdb
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.exe.config
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.exe
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.pdb
+C:\Users\Lights\Downloads\PizzaOrderingSystem\PizzaOrderingSystem\PizzaOrderingSystem\bin\Debug\PizzaOrderingSystem.xml

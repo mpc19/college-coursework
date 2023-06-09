@@ -1,0 +1,9 @@
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\bin\Debug\Cost.exe
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\bin\Debug\Cost.pdb
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\bin\Debug\Cost.xml
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\obj\x86\Debug\Cost.Form1.resources
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\obj\x86\Debug\Cost.Resources.resources
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\obj\x86\Debug\Cost.vbproj.GenerateResource.Cache
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\obj\x86\Debug\Cost.exe
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\obj\x86\Debug\Cost.xml
+C:\Users\48799\AppData\Local\Temporary Projects\Cost\obj\x86\Debug\Cost.pdb
